@@ -23,7 +23,7 @@ export default function Pakistan(){
 
 
       
-      <button><Link href="/country" className="flex justify-evenly items-center bg-green-500 p-2 mt-6 ml-10 text-xl text-black  rounded-lg">Back to countries</Link></button>
+      <button><Link href="/country" className="flex justify-evenly items-center bg-red-600 p-2 mt-6 ml-10 text-xl text-black  rounded-lg">Back to countries</Link></button>
       
 
    </>
