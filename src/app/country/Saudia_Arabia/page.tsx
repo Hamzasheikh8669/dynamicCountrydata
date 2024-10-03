@@ -14,7 +14,7 @@ export default function UAE(){
         <Link href="/">Dashboard</Link>
       </div>
    
-      <h1 className="text-4xl  bg-green-900 mt-5 ml-10 underline flex justify-center items-center">Country Saudia Arabia:</h1>
+      <h1 className="text-4xl mt-5 ml-10 underline font-bold">Country: Saudia Arabia</h1>
       <p className="mt-3 text-2xl ml-10  text-green-300">Name: Saudia Arabia</p>
       <p className="mt-1 text-2xl ml-10  text-green-300">population: 3600000</p>
       <p className="mt-1 text-2xl ml-10 text-green-300">capital:  Riyadh</p>
