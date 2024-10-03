@@ -13,8 +13,7 @@ export default function Pakistan(){
         <Link href="/">FeedBack</Link>
         <Link href="/">Dashboard</Link>
       </div>
-   
-      <h1 className="text-4xl bg-green-600 mt-5 ml-10 underline text-white flex justify-center items-center">Country  Bangladesh:</h1>
+       <h1 className="text-4xl mt-5 ml-10 underline font-bold">Country: Bangladesh</h1>
       <p className="mt-3 text-2xl ml-10  text-green-300">Name: Bangladesh</p>
       <p className="mt-1 text-2xl ml-10  text-green-300">population: 17000000</p>
       <p className="mt-1 text-2xl ml-10 text-green-300">capital: Dhaka</p>
