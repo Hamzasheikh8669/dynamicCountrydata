@@ -13,7 +13,7 @@ export default function UAE(){
         <Link href="/">FeedBack</Link>
         <Link href="/">Dashboard</Link>
       </div>
-   
+       <img className="h-40 w-60 ml-10 mt-2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/640px-Flag_of_Saudi_Arabia.svg.png"  alt="Saudi  Flag" />
       <h1 className="text-4xl mt-5 ml-10 underline font-bold">Country: Saudia Arabia</h1>
       <p className="mt-3 text-2xl ml-10  text-green-300">Name: Saudia Arabia</p>
       <p className="mt-1 text-2xl ml-10  text-green-300">population: 3600000</p>
