@@ -13,7 +13,7 @@ export default function Pakistan(){
         <Link href="/">FeedBack</Link>
         <Link href="/">Dashboard</Link>
       </div>
-   
+       <img className="h-40 w-60 ml-10 mt-2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_India_%283-5%29.svg/640px-Flag_of_India_%283-5%29.svg.png"  alt="India Flag" />
       <h1 className="text-4xl mt-5 ml-10 underline font-bold">Country: India</h1>
       <p className="mt-3 text-2xl ml-10 text-blue-300">Name: India</p>
       <p className="mt-1 text-2xl ml-10 text-blue-300">population: 1400000000</p>
